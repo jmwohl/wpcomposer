@@ -2,3 +2,4 @@ composer.lock
 vendor
 wp
 wp-content/plugins
+wp-config.php
